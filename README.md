@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Stephen0wen
+- 👋 Hi, I am @Stephen0wen
+- 📫 stevejowen@gmail.com
 - 👀 I’m interested in some things.
 - 🌱 I’m currently learning many things.
 - 💞️ I’m looking to collaborate on whatever I can.
-- 📫 stevejowen@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: most facts are not outstandingly fun
 
 <!---
