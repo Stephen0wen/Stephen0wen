@@ -1,7 +1,7 @@
 - 👋 Hi, I am @Stephen0wen
 - 📫 stevejowen@gmail.com
-- 👀 I’m interested in some things.
-- 🌱 I’m currently learning many things.
+- 👀 I’m interested in learning as much as possible.
+- 🌱 I’m currently express & SQL.
 - 💞️ I’m looking to collaborate on whatever I can.
 - ⚡ Fun fact: most facts are not outstandingly fun
 
