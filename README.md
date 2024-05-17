@@ -1,7 +1,7 @@
 - 👋 Hi, I am @Stephen0wen
 - 📫 stevejowen@gmail.com
 - 👀 I’m interested in learning as much as possible.
-- 🌱 I’m currently learning express & SQL.
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on whatever I can.
 - ⚡ Fun fact: most facts are not outstandingly fun
 
