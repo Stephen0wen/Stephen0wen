@@ -4,7 +4,7 @@ Many of the soft skills (and some of the more solid ones) associated with softwa
 
 All that said, my journey into software engineering stepped up a notch in January 2024 where I made the decision to make the big career change. Initially sharpening up my basic skills with Python, JavaScript, HTML and CSS on my own, and then learning to create full stack web applications on the Northcoders Software Engineering bootcamp.
 
-Although I am still searching for the right opportunity to start working as a sofware developer full-time, I have begun some self-employed software development work alongside my day job.
+Although I am still searching for the right opportunity to start working as a software developer full-time, I have begun some self-employed software development work alongside my day job.
 
 Please don't hesitate to contact me if you are searching for a budding developer who is eager to learn, highly motivated and ready to take on the worlds current challenges!
 
